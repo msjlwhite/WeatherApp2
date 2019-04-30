@@ -1,0 +1,9 @@
+Tue Apr 30 11:55:08 CDT 2019
+Welcome to the Clever Weather Reporter!
+Hello, my name is Sunny Skyz. I have gathered all of the location and weather information that you entered
+ and compiled it into a weather report for you: 
+
+Current Weather Conditions: 
+Location: Uneedus, Louisiana
+Today's High is 75.
+Today's Low is 65.
